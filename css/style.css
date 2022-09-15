@@ -1,0 +1,40 @@
+ .product{
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90%;
+    }
+.pic{
+    margin: 10px  auto;
+    height: 140px;
+    width:30%;
+    }
+   
+    .card1{
+     margin:20px  auto;
+
+    }
+    .star{
+  color: orange;
+    }
+  
+    .price{
+        color:orange;
+    }
+    p,h3,h4,span{
+    
+        padding-left: 10px;
+    }
+    .btn1{
+        width: 75%;
+        margin-left: 0px;
+        height: 50px;
+    }
+    .btn2{
+        width: 20%;
+        margin-right: 10px;
+        float: right;
+        height: 50px;
+
+    }
